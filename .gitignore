@@ -1,0 +1,11 @@
+data
+*.csv
+*.json
+
+figures
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter
+.ipynb_checkpoints
